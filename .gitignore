@@ -1,0 +1,25 @@
+
+# Dependencias
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos generados
+dist/
+client/dist/
+server/dist/
+
+# Archivos del sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
