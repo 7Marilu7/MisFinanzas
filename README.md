@@ -153,7 +153,7 @@ Cada movimiento y presupuesto se relaciona con el usuario correspondiente, permi
 
 ## Estado del proyecto
 
-Proyecto desarrollado como parte de un portafolio personal para demostrar conocimientos en desarrollo web full-stack, gestión de bases de datos, autenticación de usuarios y visualización de información financiera.
+Proyecto desarrollado como parte de un portafolio personal.
 
 ## Autoría
 
